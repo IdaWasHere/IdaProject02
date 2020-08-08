@@ -1,49 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d94b832-bfe5-45f4-98f8-46e168c9c644" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Ida/TradingApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Ida/TradingApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Ida/config/MyMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Ida/config/MyMvcConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Ida/controller/IndexController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Ida/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Ida/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Ida/controller/VerifyController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Ida/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Ida/dao/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Ida/entity/Result.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Ida/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Ida/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Ida/service/Impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Ida/service/Impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Ida/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Ida/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Ida/util/CryptographyUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Ida/util/RandomValidateCodeUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/ida/mapper/UserDaoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/ida/mapper/UserDaoMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.1.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/findPassword.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/register.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ida/TradingApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ida/TradingApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ida/config/MyMvcConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ida/controller/IndexController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ida/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ida/controller/VerifyController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ida/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ida/dao/UserDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ida/entity/Result.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ida/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ida/entity/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ida/mapper/UserDaoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ida/mapper/UserDaoMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ida/service/Impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ida/service/Impl/UserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ida/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ida/service/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ida/util/CryptographyUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ida/util/RandomValidateCodeUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/js/jquery-3.1.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/findPassword.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/register.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trading.iml" beforeDir="false" afterPath="$PROJECT_DIR$/trading.iml" afterDir="false" />
-    </list>
+    <list default="true" id="4d94b832-bfe5-45f4-98f8-46e168c9c644" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -96,6 +54,18 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Ida/service/Impl/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/Ida/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -108,7 +78,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/Ida/config/MyMvcConfig.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="328">
@@ -116,6 +86,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Ida/dao/UserDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -502,8 +481,16 @@
       <workItem from="1595567075307" duration="658000" />
       <workItem from="1595587227306" duration="7022000" />
       <workItem from="1596803098564" duration="10230000" />
-      <workItem from="1596867541344" duration="15507000" />
+      <workItem from="1596867541344" duration="15800000" />
     </task>
+    <task id="LOCAL-00001" summary="记住密码免登demo">
+      <created>1596901289171</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596901289171</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -515,10 +502,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="177596000" />
+    <option name="totallyTimeSpent" value="177889000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-25" y="28" width="1452" height="722" extended-state="1" />
+    <frame x="-25" y="28" width="1452" height="722" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26183644" />
@@ -556,6 +543,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="记住密码免登demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="记住密码免登demo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -650,13 +641,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ida/dao/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+            <element signature="e#792#793#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+            <element signature="e#867#868#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#946#947#0" expanded="true" />
+            <element signature="e#986#987#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -675,16 +672,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ida/service/Impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -733,6 +720,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="328">
           <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ida/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Ida/service/Impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
